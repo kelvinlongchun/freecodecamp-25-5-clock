@@ -1,0 +1,11 @@
+@import "../../../sass/variables";
+
+.break-control {
+  padding-top: 3rem;
+  background-color: $main-color;
+
+  @media (min-width: $phone-width) {
+    padding-top: 0rem;
+    justify-content: center;
+  }
+}

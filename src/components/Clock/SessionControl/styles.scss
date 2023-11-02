@@ -1,0 +1,12 @@
+@import "../../../sass/variables";
+
+.session-control {
+  padding-bottom: 3rem;
+  background-color: $sec-color;
+  justify-content: flex-end;
+
+  @media (min-width: $phone-width) {
+    padding-bottom: 0rem;
+    justify-content: center;
+  }
+}

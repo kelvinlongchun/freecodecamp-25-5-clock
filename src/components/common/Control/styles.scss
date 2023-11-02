@@ -1,0 +1,37 @@
+@import "../../../sass/variables";
+
+.control {
+  display: flex;
+  flex-direction: column;
+  height: 50%;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+
+  @media (min-width: $phone-width) {
+    height: 100%;
+    width: 50%;
+  }
+
+  &__buttons {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+
+    button {
+      background-color: hsl(267, 72%, 63%);
+      border: none;
+      width: 2rem;
+      height: 2rem;
+      border-radius: 50%;
+      transition: 0.3s;
+
+      &:active,
+      &:hover {
+        cursor: pointer;
+        filter: brightness(1.1);
+        transform: scale(1.1);
+      }
+    }
+  }
+}
