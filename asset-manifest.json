@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/freecodecamp-25-5-clock/static/css/main.1e138999.css",
+    "main.js": "/freecodecamp-25-5-clock/static/js/main.f1082de3.js",
+    "static/js/787.1f5f3708.chunk.js": "/freecodecamp-25-5-clock/static/js/787.1f5f3708.chunk.js",
+    "static/media/beep.mp3": "/freecodecamp-25-5-clock/static/media/beep.6c19b7b9a533c76b395a.mp3",
+    "index.html": "/freecodecamp-25-5-clock/index.html",
+    "main.1e138999.css.map": "/freecodecamp-25-5-clock/static/css/main.1e138999.css.map",
+    "main.f1082de3.js.map": "/freecodecamp-25-5-clock/static/js/main.f1082de3.js.map",
+    "787.1f5f3708.chunk.js.map": "/freecodecamp-25-5-clock/static/js/787.1f5f3708.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e138999.css",
+    "static/js/main.f1082de3.js"
+  ]
+}
